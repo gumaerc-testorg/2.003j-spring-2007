@@ -5,8 +5,13 @@ description: 'This resource contains lecture notes on collisions, impulses, coll
   of center of
 
   mass.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003j-dynamics-and-control-i-spring-2007/e12ed118aeb1eb716db972ab23f4b982_lec06.pdf
+file: /media/courses/2-003j-dynamics-and-control-i-spring-2007/e12ed118aeb1eb716db972ab23f4b982_lec06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec06.pdf
 uid: e12ed118-aeb1-eb71-6db9-72ab23f4b982
