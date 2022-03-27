@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 821c85cc-62e7-16c2-6b03-bdebf2bef762
 resourcetype: Document
 title: hint_on_sc.pdf
 uid: 44c3dd00-87c1-2bbf-db8e-6747726a878e

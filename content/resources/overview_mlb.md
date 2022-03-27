@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 59d8aa4a-75cb-aa25-95ad-5428cc102350
 resourcetype: Document
 title: overview_mlb.pdf
 uid: a333fc7a-fa8e-514c-e578-f201c65323d8
