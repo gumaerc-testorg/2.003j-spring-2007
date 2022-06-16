@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a schedule of topics, overviews, and readings for
+  the lab sessions of the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -37,7 +39,7 @@ M1
 Introduction and Overview
 {{< tdclose >}}
 {{< tdopen >}}
-Programming and MATLAB® ([PDF]({{< baseurl >}}/resources/overview_mlb))
+Programming and MATLAB® ({{% resource_link a333fc7a-fa8e-514c-e578-f201c65323d8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -52,7 +54,7 @@ M2
 Lab 1: MATLAB® Interface and Matrix Manipulation
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Basics: Data Types, Matrices, and Graphics ([PDF - 1.1 MB]({{< baseurl >}}/resources/lab1_overview))
+MATLAB® Basics: Data Types, Matrices, and Graphics ({{% resource_link b3127176-fcef-c3c0-9e7c-5319040a1702 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -83,7 +85,7 @@ M3
 Lab 2: Conditionals I
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® and Programming ([PDF]({{< baseurl >}}/resources/lab2_3_overview))
+MATLAB® and Programming ({{% resource_link b8933824-8683-f783-0714-a4c7c451da02 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -127,7 +129,7 @@ M5
 Lab 4: Functions I
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Programming - Functions ([PDF]({{< baseurl >}}/resources/lab4_overview))
+MATLAB® Programming - Functions ({{% resource_link 77656abd-5e27-3b1d-6bbd-1bc1836c803b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Programming - Types of functions except programming - Types of functions - Private functions and programming - Types of functions - Overloaded functions
@@ -172,7 +174,7 @@ M8
 Lab 7: ODE 1
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Programming - Algorithms to Solve Differential Equations ([PDF]({{< baseurl >}}/resources/lab7_8_ode))
+MATLAB® Programming - Algorithms to Solve Differential Equations ({{% resource_link 52e98a5e-6a93-35b3-553c-29a36bd2a3e7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -202,7 +204,7 @@ M10
 Lab 9: Eigenvalue Problems
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Programming - Eigenvalue Problems and Mechanical Vibrations ([PDF]({{< baseurl >}}/resources/lab9_eigen))
+MATLAB® Programming - Eigenvalue Problems and Mechanical Vibrations ({{% resource_link c25da9fd-5bdf-b409-76db-f7fce19ef1f4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  

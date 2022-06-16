@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information about the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ PROBLEMS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/problemset1))
+Problem set 1 ({{% resource_link cbfbc7ba-ae45-69be-1c6c-f6e1091e6e2f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -44,7 +45,7 @@ Rotating Arm
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/problemset2))
+Problem set 2 ({{% resource_link 9dfd499f-45a0-c956-60b3-cc3ff055731c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -63,7 +64,7 @@ Sliding Collar on a Vertical Frame
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/problemset3))
+Problem set 3 ({{% resource_link f9d67e0c-f303-c30e-fc5a-896b37203b8e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -82,7 +83,7 @@ Basketball Collision
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/problemset4))
+Problem set 4 ({{% resource_link 87504320-827e-ab28-ce1d-870edf7f5ec8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -101,7 +102,7 @@ Plunger and Roller
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/problemset5))
+Problem set 5 ({{% resource_link 1e4de02f-4acd-ebd9-359d-d5c23b833b90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -120,7 +121,7 @@ I-beam on a Hinge
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 6 ([PDF]({{< baseurl >}}/resources/problemset6))
+Problem set 6 ({{% resource_link bfbe630c-6300-560f-1a37-fc89da120515 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -139,7 +140,7 @@ Rolling Cylinders
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 7 ([PDF]({{< baseurl >}}/resources/problemset7))
+Problem set 7 ({{% resource_link 7fbe39b1-bb55-f63c-eff0-173148281aed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -156,7 +157,7 @@ Rigid Body Pendulum
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 8 ([PDF]({{< baseurl >}}/resources/problemset8))
+Problem set 8 ({{% resource_link d0ed6803-0ef9-0306-275d-7a83928de63b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -173,7 +174,7 @@ Cart and Pendulum System
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 9 ([PDF]({{< baseurl >}}/resources/problemset9))
+Problem set 9 ({{% resource_link 5a30fd3b-4071-6149-71f6-3e5028d6c1f1 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -190,7 +191,7 @@ Air and Oil
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem set 10 ([PDF]({{< baseurl >}}/resources/problemset10))
+Problem set 10 ({{% resource_link e1273629-56e1-84c5-97f8-4b284e4911bf "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 

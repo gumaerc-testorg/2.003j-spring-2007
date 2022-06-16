@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-003j-dynamics-and-control-i-spring-2007/cd2754d9511c2cb710bdc6a680e634bd_rec02.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/cd2754d9511c2cb710bdc6a680e634bd_rec02.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
