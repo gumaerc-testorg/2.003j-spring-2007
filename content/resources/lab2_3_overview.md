@@ -5,6 +5,7 @@ file: /courses/2-003j-dynamics-and-control-i-spring-2007/b89338248683f7830714a4c
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab2_3_overview.pdf
 uid: b8933824-8683-f783-0714-a4c7c451da02
 ---
 This resource contains lab notes on MATLAB? and Programming.
-

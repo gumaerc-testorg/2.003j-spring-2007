@@ -6,6 +6,7 @@ file: /courses/2-003j-dynamics-and-control-i-spring-2007/91c8175cc59867abb41b534
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exam1.pdf
 uid: 91c8175c-c598-67ab-b41b-5342209d267d
 ---
 This resource contains an exam with questions: Conical pendulum, Rod pendulum with moving pivot, and Rolling wheel.
-

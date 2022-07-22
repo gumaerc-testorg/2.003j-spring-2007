@@ -5,6 +5,7 @@ file: /courses/2-003j-dynamics-and-control-i-spring-2007/cd2754d9511c2cb710bdc6a
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
