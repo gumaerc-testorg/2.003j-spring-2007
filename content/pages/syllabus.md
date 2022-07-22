@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides the course description and information on goals,
+  prerequisites, related courses, required Texts, recommended texts, examinations,
+  recitations, MATLAB?, homework, grading, recommended citation, and a calendar of
+  lecture topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 8b10b9aa-e1de-ff90-1c1d-ea6af36d601f
 ---
@@ -77,7 +83,7 @@ There will be MATLAB® sessions on Friday, covering material relevant to the cou
 Homework
 --------
 
-Homework problems will typically be assigned every Monday and will be due at the beginning of lecture on Monday of the following week. The problem sets will be provided in the [assignments]({{< baseurl >}}/pages/assignments) section. No late homework will be accepted. You may discuss the problems with others in class, but you must (a) write up your eventual solution independently, and (b) list the names of students with whom you discussed the problem set. Problem sets may contain a MATLAB® component.
+Homework problems will typically be assigned every Monday and will be due at the beginning of lecture on Monday of the following week. The problem sets will be provided in the {{% resource_link 7fd70b2a-81d7-9b62-fc07-cc6a7e2d0b15 "assignments" %}} section. No late homework will be accepted. You may discuss the problems with others in class, but you must (a) write up your eventual solution independently, and (b) list the names of students with whom you discussed the problem set. Problem sets may contain a MATLAB® component.
 
 Grading
 -------

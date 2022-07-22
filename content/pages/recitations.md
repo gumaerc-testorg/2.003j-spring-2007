@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains recitation notes prepared by Bryan Owens and Frederick
+  Jao. These notes are preliminary and should not be used to design satellites.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 46223529-73a7-bca1-c6da-bb0bf8dd0cca
 ---
@@ -24,7 +29,7 @@ Topics
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Kinematics ([PDF]({{< baseurl >}}/resources/rec01))
+Kinematics ({{% resource_link 48ea2a6c-bb77-008b-f3ad-3c30a8c3ef09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Kinematics ([PDF]({{< baseurl >}}/resources/rec01))
 R2
 {{< tdclose >}}
 {{< tdopen >}}
-Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB® ([PDF]({{< baseurl >}}/resources/rec02))
+Systems of Particles: Linear and Angular Momentum, Solutions in MATLAB® ({{% resource_link cd2754d9-511c-2cb7-10bd-c6a680e634bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

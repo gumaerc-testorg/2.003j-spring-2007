@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required texts, recommended texts,
+  and a calendar of lecture topics with associated readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 821c85cc-62e7-16c2-6b03-bdebf2bef762
 ---
@@ -14,7 +19,7 @@ Recommended Texts
 
 Bedford, A., and Wallace L. Fowler. _Engineering Mechanics: Dynamics_. 2nd ed. Menlo Park, CA: Addison-Wesley Publishing, Inc., 1998. ISBN: 9780201180718. (Bedford and Fowler)
 
-The readings consist of selected chapters from Williams and the [lecture notes]({{< baseurl >}}/pages/lecture-notes).
+The readings consist of selected chapters from Williams and the {{% resource_link ff6105c6-0132-46bc-ca99-ad17eebefe7a "lecture notes" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -68,7 +73,7 @@ Sections 4-1, 4-2, 4-3, 5-1, 5-2, and 5-3
 
 Appendices C-1 to C-3.6
 
-Hints on Spherical Coordinates ([PDF]({{< baseurl >}}/resources/hint_on_sc))
+Hints on Spherical Coordinates ({{% resource_link 44c3dd00-87c1-2bbf-db8e-6747726a878e "PDF" %}})
 
 
 {{< tdclose >}}
