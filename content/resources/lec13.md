@@ -6,6 +6,7 @@ description: This resource contains lecture notes on Lagrangian dynamics, a whee
   of Lagrange method, non-contributing force comments, generalized force definition,
   and closing comments.
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/11ea5e7aee4bd42a22216321dc704df2_lec13.pdf
+file_size: 219498
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

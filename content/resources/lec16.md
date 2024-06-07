@@ -5,6 +5,7 @@ description: This resource contains lecture notes on Lagrangian dynamics, a fall
   of motion by momentum principles, a simple pendulum, and a cart with pendulum and
   spring.
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/0ce867bcb09aef7cf094ffc60c11f8ac_lec16.pdf
+file_size: 217348
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
