@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains an exam with questions: Conical pendulum, Rod
   pendulum with moving pivot, and Rolling wheel.'
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/91c8175cc59867abb41b5342209d267d_exam1.pdf
+file_size: 107116
 file_type: application/pdf
 learning_resource_types:
 - Exams

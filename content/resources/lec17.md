@@ -4,6 +4,7 @@ description: This resource contains lecture notes on Lagrangian dynamics, a cart
   pendulum and spring (continued), equilibrium analysis, finding equilibrium points,
   and analyzing their stability.
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/d5324529eb5e9a36d14e81350b9d1f39_lec17.pdf
+file_size: 140194
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

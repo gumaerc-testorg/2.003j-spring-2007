@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on Lagrangian dynamics, a spinning
   hoop with sliding mass, linearization of equations of motion, and bifurcations.
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/675f211925777b35ef7b66b43f6c6fa3_lec19.pdf
+file_size: 222814
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
