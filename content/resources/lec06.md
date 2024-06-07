@@ -6,6 +6,7 @@ description: 'This resource contains lecture notes on collisions, impulses, coll
 
   mass.'
 file: /courses/2-003j-dynamics-and-control-i-spring-2007/e12ed118aeb1eb716db972ab23f4b982_lec06.pdf
+file_size: 174329
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
