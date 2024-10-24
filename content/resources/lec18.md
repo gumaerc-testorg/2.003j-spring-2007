@@ -4,7 +4,7 @@ description: This resource contains lecture notes on Lagrangian dynamics, equili
   analysis cart with pendulum and spring, spinning hoop with sliding mass examples,
   equations of motion, equilibria, generalized coordinates and generalized forces,
   equilibrium points, and stability.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/e094f450edc3a5a869aef5da9f12336e_lec18.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/e094f450edc3a5a869aef5da9f12336e_lec18.pdf
 file_size: 166503
 file_type: application/pdf
 learning_resource_types:

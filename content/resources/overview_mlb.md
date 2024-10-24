@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lab notes with an introduction and overview of
   programming and MATLAB?.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/a333fc7afa8e514ce578f201c65323d8_overview_mlb.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/a333fc7afa8e514ce578f201c65323d8_overview_mlb.pdf
 file_size: 30668
 file_type: application/pdf
 learning_resource_types:

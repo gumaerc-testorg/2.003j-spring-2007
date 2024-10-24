@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains lecture notes on systems of particles: angular
   momentum and work energy principle.'
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/f624f0292a89d7d7fe1a66f0d2551eb5_lec04.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/f624f0292a89d7d7fe1a66f0d2551eb5_lec04.pdf
 file_size: 164984
 file_type: application/pdf
 learning_resource_types:

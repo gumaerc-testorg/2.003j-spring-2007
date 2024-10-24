@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains an exam with three questions.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/85c7ca2ff3784db8437baa11da0acc3b_exam2_recon.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/85c7ca2ff3784db8437baa11da0acc3b_exam2_recon.pdf
 file_size: 111391
 file_type: application/pdf
 learning_resource_types:
