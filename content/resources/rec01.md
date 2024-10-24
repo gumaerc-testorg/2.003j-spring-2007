@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes from a recitation on kinematics.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/48ea2a6cbb77008bf3ad3c30a8c3ef09_rec01.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/48ea2a6cbb77008bf3ad3c30a8c3ef09_rec01.pdf
 file_size: 112133
 file_type: application/pdf
 learning_resource_types:

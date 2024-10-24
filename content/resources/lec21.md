@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on vibrations, governing equation,
   and forced response.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/37024ed53f13e1710f2c5d193be95774_lec21.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/37024ed53f13e1710f2c5d193be95774_lec21.pdf
 file_size: 172538
 file_type: application/pdf
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on vibrations, free response of
   multi-degree-of-freedom systems, motivation, a system of three springs and two masses,
   and examples of determining mode shape and natural frequencies by inspection.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/7e9c7961d221391acb4fafb28fe94d0a_lec22.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/7e9c7961d221391acb4fafb28fe94d0a_lec22.pdf
 file_size: 181681
 file_type: application/pdf
 learning_resource_types:
