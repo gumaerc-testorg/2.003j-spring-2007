@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a practice exam with three problems.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/1e77317769f2c5127385d663f563e88b_exam1_prac.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/1e77317769f2c5127385d663f563e88b_exam1_prac.pdf
 file_size: 67978
 file_type: application/pdf
 learning_resource_types:
