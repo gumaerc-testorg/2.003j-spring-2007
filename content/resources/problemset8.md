@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Double Mass and
   Spring Pendulum, String and Rod Pendulum, and Cart and Pendulum System.'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/d0ed68030ef90306275d7a83928de63b_problemset8.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/d0ed68030ef90306275d7a83928de63b_problemset8.pdf
 file_size: 108227
 file_type: application/pdf
 learning_resource_types:

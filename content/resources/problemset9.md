@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Masses and Pulleys,
   Highway Crash Barriers, and Air and Oil.'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/5a30fd3b4071614971f63e5028d6c1f1_problemset9.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/5a30fd3b4071614971f63e5028d6c1f1_problemset9.pdf
 file_size: 394980
 file_type: application/pdf
 learning_resource_types:
