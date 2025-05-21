@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Pivoting Tube, Sliding
   Plate, Bungee Jumper, and Sliding Collar on a Vertical Frame.'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/9dfd499f45a0c95660b3cc3ff055731c_problemset2.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/9dfd499f45a0c95660b3cc3ff055731c_problemset2.pdf
 file_size: 545476
 file_type: application/pdf
 learning_resource_types:

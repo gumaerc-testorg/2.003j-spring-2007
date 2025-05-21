@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the practice final exam with five problems.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/c6afa008396f1cc46aceb2447c572e31_finalexam_prac.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/c6afa008396f1cc46aceb2447c572e31_finalexam_prac.pdf
 file_size: 338447
 file_type: application/pdf
 learning_resource_types:

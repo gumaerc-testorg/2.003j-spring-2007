@@ -4,7 +4,7 @@ description: This resource contains lecture notes on vibrations, forced response
   multi-degree-of-freedom systems, equations of motion, general form of solution,
   derivations of equations for particular solution, particular solution, and response
   diagrams.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/81544b5ec000784ed88d4786188add28_lec24.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/81544b5ec000784ed88d4786188add28_lec24.pdf
 file_size: 142918
 file_type: application/pdf
 learning_resource_types:

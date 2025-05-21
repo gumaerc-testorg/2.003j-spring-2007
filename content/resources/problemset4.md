@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Cable Reel, Sliding
   Bar, Instant Centers, and Plunger and Roller.'
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/87504320827eab28ce1d870edf7f5ec8_problemset4.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/87504320827eab28ce1d870edf7f5ec8_problemset4.pdf
 file_size: 434665
 file_type: application/pdf
 learning_resource_types:

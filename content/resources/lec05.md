@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on systems of particles, free body
   diagrams (FBDs), linear momentum principle, conservation of energy, kinematics,
   and angular momentum principle.
-file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/d94a2ee18ec6b6f131f013c853248118_lec05.pdf
+file: /courses/2-003j-dynamics-and-control-i-spring-2007/d94a2ee18ec6b6f131f013c853248118_lec05.pdf
 file_size: 190515
 file_type: application/pdf
 learning_resource_types:
