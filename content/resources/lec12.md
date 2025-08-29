@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture notes on 2-D motion of rigid bodies, a
   rolling cylinder inside a fixed tube, kinematics, a rocker with point mass, and
   angular momentum principle.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/b4926f6a6ca2b18b93751c709ea3d6d6_lec12.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/b4926f6a6ca2b18b93751c709ea3d6d6_lec12.pdf
 file_size: 297889
 file_type: application/pdf
 learning_resource_types:

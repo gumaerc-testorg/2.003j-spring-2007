@@ -4,7 +4,7 @@ description: This resource contains lecture notes on Lagrangian dynamics, admiss
   variations/virtual displacements, generalized coordinates, virtual work, a hanging
   rigid bar, a tethered cart, generalized forces for holonomic systems, a cart with
   pendulum, springs, and dashpots, and equations of motion.
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/a5a1d1fa31177370bb12643fb61a209c_lec14.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/a5a1d1fa31177370bb12643fb61a209c_lec14.pdf
 file_size: 222870
 file_type: application/pdf
 learning_resource_types:
