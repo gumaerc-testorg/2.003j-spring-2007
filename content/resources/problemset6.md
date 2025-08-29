@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Two-link Pendulum,
   Slider-crank Mechanism, Link-chain, and Rolling Cylinders.'
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/bfbe630c6300560f1a37fc89da120515_problemset6.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/bfbe630c6300560f1a37fc89da120515_problemset6.pdf
 file_size: 123850
 file_type: application/pdf
 learning_resource_types:

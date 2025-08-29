@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains a problem set with problems: Carts, Double Mass
   and Spring Pendulum Revisited, and Suspension.'
-file: /courses/2-003j-dynamics-and-control-i-spring-2007/e127362956e184c597f84b284e4911bf_problemset10.pdf
+file: /ol-ocw-studio-app/courses/2-003j-dynamics-and-control-i-spring-2007/e127362956e184c597f84b284e4911bf_problemset10.pdf
 file_size: 71640
 file_type: application/pdf
 learning_resource_types:
